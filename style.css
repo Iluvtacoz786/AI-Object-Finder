@@ -1,0 +1,49 @@
+body{
+    background-color: #a7e8eb;
+}
+#title_div{
+    background-color: #ada7eb;
+    color: white;
+    margin-top: 0;
+    box-shadow: 10px 10px 10px white;
+    font-family: 'Waterfall', cursive;
+}
+#note{
+    font-family: 'Waterfall', cursive;
+font-size: 30px;
+}
+#title{
+    font-family: 'Waterfall', cursive;
+font-size: 30px;
+}
+#start_button{
+    background-color: #ada7eb;
+border-radius: 12px;
+font-size: 30px;
+width:25%;
+font-family: 'Waterfall', cursive;
+color:white;
+
+}
+#status{
+    background-color: #ada7eb;
+    color: white;
+    font-family: 'Waterfall', cursive;
+    font-size: 30px;
+width:25%;
+display: inline-block;
+}
+#result{
+    background-color: #ada7eb;
+    color: white;
+    font-family: 'Waterfall', cursive;
+    font-size: 30px;
+width:25%;
+display: inline-block;
+
+}
+canvas{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+}
